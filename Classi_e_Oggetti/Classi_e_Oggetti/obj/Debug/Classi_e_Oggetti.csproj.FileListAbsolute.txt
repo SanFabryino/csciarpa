@@ -1,0 +1,7 @@
+C:\Users\Fabrizio\source\repos\Classi_e_Oggetti\Classi_e_Oggetti\bin\Debug\Classi_e_Oggetti.exe.config
+C:\Users\Fabrizio\source\repos\Classi_e_Oggetti\Classi_e_Oggetti\bin\Debug\Classi_e_Oggetti.exe
+C:\Users\Fabrizio\source\repos\Classi_e_Oggetti\Classi_e_Oggetti\bin\Debug\Classi_e_Oggetti.pdb
+C:\Users\Fabrizio\source\repos\Classi_e_Oggetti\Classi_e_Oggetti\obj\Debug\Classi_e_Oggetti.csprojAssemblyReference.cache
+C:\Users\Fabrizio\source\repos\Classi_e_Oggetti\Classi_e_Oggetti\obj\Debug\Classi_e_Oggetti.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\source\repos\Classi_e_Oggetti\Classi_e_Oggetti\obj\Debug\Classi_e_Oggetti.exe
+C:\Users\Fabrizio\source\repos\Classi_e_Oggetti\Classi_e_Oggetti\obj\Debug\Classi_e_Oggetti.pdb
