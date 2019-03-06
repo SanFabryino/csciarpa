@@ -1,0 +1,7 @@
+C:\Users\Fabrizio\source\repos\Arrays_and_Strings_exc\Arrays_and_Strings_exc\bin\Debug\Arrays_and_Strings_exc.exe.config
+C:\Users\Fabrizio\source\repos\Arrays_and_Strings_exc\Arrays_and_Strings_exc\bin\Debug\Arrays_and_Strings_exc.exe
+C:\Users\Fabrizio\source\repos\Arrays_and_Strings_exc\Arrays_and_Strings_exc\bin\Debug\Arrays_and_Strings_exc.pdb
+C:\Users\Fabrizio\source\repos\Arrays_and_Strings_exc\Arrays_and_Strings_exc\obj\Debug\Arrays_and_Strings_exc.csproj.CoreCompileInputs.cache
+C:\Users\Fabrizio\source\repos\Arrays_and_Strings_exc\Arrays_and_Strings_exc\obj\Debug\Arrays_and_Strings_exc.exe
+C:\Users\Fabrizio\source\repos\Arrays_and_Strings_exc\Arrays_and_Strings_exc\obj\Debug\Arrays_and_Strings_exc.pdb
+C:\Users\Fabrizio\source\repos\Arrays_and_Strings_exc\Arrays_and_Strings_exc\obj\Debug\Arrays_and_Strings_exc.csprojAssemblyReference.cache
