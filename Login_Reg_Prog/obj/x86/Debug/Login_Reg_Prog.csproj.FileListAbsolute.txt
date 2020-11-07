@@ -1,0 +1,6 @@
+/home/fabry/Scrivania/programmazione/c#/logRegProg/Login_Reg_Prog/Login_Reg_Prog/bin/Debug/Login_Reg_Prog.exe
+/home/fabry/Scrivania/programmazione/c#/logRegProg/Login_Reg_Prog/Login_Reg_Prog/bin/Debug/Login_Reg_Prog.pdb
+/home/fabry/Scrivania/programmazione/c#/logRegProg/Login_Reg_Prog/Login_Reg_Prog/obj/x86/Debug/Login_Reg_Prog.csprojAssemblyReference.cache
+/home/fabry/Scrivania/programmazione/c#/logRegProg/Login_Reg_Prog/Login_Reg_Prog/obj/x86/Debug/Login_Reg_Prog.csproj.CoreCompileInputs.cache
+/home/fabry/Scrivania/programmazione/c#/logRegProg/Login_Reg_Prog/Login_Reg_Prog/obj/x86/Debug/Login_Reg_Prog.exe
+/home/fabry/Scrivania/programmazione/c#/logRegProg/Login_Reg_Prog/Login_Reg_Prog/obj/x86/Debug/Login_Reg_Prog.pdb
